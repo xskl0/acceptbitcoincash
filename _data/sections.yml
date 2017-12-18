@@ -6,10 +6,6 @@
   title: Backup and Sync
   icon: disk outline
 
-#- id: banking
-# title: Banking
-#  icon: dollar
-
 - id: cloud
   title: Cloud Computing
   icon: cloud
@@ -45,6 +41,10 @@
 - id: entertainment
   title: Entertainment
   icon: music
+
+- id: examples
+  title: Regions
+  icon: globe
 
 - id: food
   title: Food

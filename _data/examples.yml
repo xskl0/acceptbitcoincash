@@ -2,26 +2,34 @@ websites:
   - name: <em><i class="info circle icon"></i>see <b>/_data/examples.yml</b> for how this example list is built</em>
   - name: NOT accepting any crypto (need at least Twitter/Facebook handle, or e-mail)
     url: http://acceptbitcoin.cash
+    region: af
+    country: BF
     img: exampleicon.png
     twitter: usebitcoincash
 
   - name: NOT accepting any crypto (e-mail)
     url: http://acceptbitcoin.cash
+    region: af
+    country: BF
     img: exampleicon.png
     email_address: false@e.mail
 
   - name: Accepting Bitcoin ONLY
     url: http://acceptbitcoin.cash
+    region: af
+    country: BA
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
-    bcc: No
+    bcc: yes
     btc: Yes
     othercrypto: No
     doc: http://acceptbitcoin.cash
 
   - name: Accepting Bitcoin Cash
     url: http://acceptbitcoin.cash
+    region: na
+    country: PR
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
@@ -34,6 +42,8 @@ websites:
 
   - name: Accepting Other Crypto
     url: http://acceptbitcoin.cash
+    region: sa
+    country: BR
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
@@ -46,6 +56,8 @@ websites:
 
   - name: Accepting Bitcoin Cash and Bitcoin
     url: http://acceptbitcoin.cash
+    region: oc
+    country: NZ
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
@@ -56,6 +68,8 @@ websites:
 
   - name: Accepting Other Cryptocurrency (with exception text/icon)
     url: http://acceptbitcoin.cash
+    region: af
+    country: BA
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
@@ -68,6 +82,8 @@ websites:
 
   - name: In-Process of implementing Bitcoin Cash
     url: http://acceptbitcoin.cash
+    region: af
+    country: BA
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
