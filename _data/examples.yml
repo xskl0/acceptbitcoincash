@@ -29,7 +29,7 @@ websites:
   - name: Accepting Bitcoin Cash
     url: http://acceptbitcoin.cash
     region: na
-    country: PR
+    country: pr
     img: exampleicon.png
     twitter: usebitcoincash
     facebook: usebitcoincash
