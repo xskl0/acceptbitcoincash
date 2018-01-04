@@ -14,17 +14,31 @@ websites:
 
  >Very popular websites
 
-    - name: 
-      url: 
-      img: 
-      twitter: 
+    - name: Naughty America
+      url: https://www.naughtyamerica.com/
+      img: naughtyamerica.png
+      twitter: naughtyamerica
       facebook: 
       mail adress: 
       contact form: 
-      btc: 
-      othercrypto: 
-      bch payments:
-      bch tip bot:
+      btc: Yes
+      othercrypto: No
+      bch payments: No
+      bch tip bot: No
+      
+    - name: Chaturbate
+      url: https://www.chaturbate.com
+      img: chaturbate.png
+      twitter: chaturbate
+      facebook: 
+      mail adress: 
+      contact form: 
+      btc: Yes
+      othercrypto: No
+      allow BCH deposits? : No
+      has their non-blockchain based token been completely replaced by BCH? : No
+      doc: https://blog.chaturbate.com/news-and-announcements/purchase-tokens-with-bitcoin/
+
 
  >Other websites
 
@@ -86,17 +100,6 @@ live cams:
       btc: yes
       othercrypto: yes
 
-    - name: Chaturbate
-      url: https://www.chaturbate.com
-      img: chaturbate.png
-      twitter: chaturbate
-      mail adress: 
-      contact form: 
-      bch: No
-      btc: Yes
-      othercrypto: No
-      doc: https://blog.chaturbate.com/news-and-announcements/purchase-tokens-with-bitcoin/
-
     - name: Dog Fart Network
       url: http://www.dogfartnetwork.com
       img: dogfartnetwork.png
@@ -117,16 +120,6 @@ live cams:
       bch: yes
       btc: yes
       othercrypto: yes
-
-    - name: Naughty America
-      url: https://www.naughtyamerica.com/
-      img: naughtyamerica.png
-      twitter: naughtyamerica
-      mail adress: 
-      contact form: 
-      bch: No
-      btc: Yes
-      othercrypto: No
 
     - name: PornHub
       url: https://www.pornhub.com/
