@@ -1,14 +1,3 @@
-_______________________________________________________________________________
-Projects: 
- >create a list of porn websites
-   >create a https://acceptbitcoin.cash alternative dedicated to the porn industry / https://acceptbitcoin.cash creates a sub-site or a separate html page for the XXX stuff
-
-
- >search a porn website ready to allow BCH tips
-   >configure tipprbot in order to work on a porn website ( talk with twitter:@r0bbot )
-________________________________________________________________________________
-
-
 
 websites:
 
@@ -23,8 +12,8 @@ websites:
       contact form: 
       btc: Yes
       othercrypto: No
-      bch payments: No
-      bch tip bot: No
+      bch: No
+    
       
     - name: Chaturbate
       url: https://www.chaturbate.com
@@ -35,8 +24,7 @@ websites:
       contact form: 
       btc: Yes
       othercrypto: No
-      allow BCH deposits? : No
-      has their non-blockchain based token been completely replaced by BCH? : No
+      bch: No
       doc: https://blog.chaturbate.com/news-and-announcements/purchase-tokens-with-bitcoin/
 
 
@@ -53,8 +41,7 @@ websites:
       contact form: 
       btc: 
       othercrypto: 
-      bch payments:
-      bch tip bot:
+      bch:
       
       
    >español:
@@ -74,8 +61,7 @@ live cams:
       contact form: 
       btc: 
       othercrypto: 
-      allow BCH deposits? :
-      has their non-blockchain based token been completely replaced by BCH? :
+      bch:
       
      
 
